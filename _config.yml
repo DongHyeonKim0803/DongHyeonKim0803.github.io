@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Dong's page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "DongHyeonKim"
+name                     : "DongHyeon Kim"
 description              : "An amazing website."
 url                      : "https://DongHyeonKim0803.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "DongHyeonKim"
+  name             : "DongHyeon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "INU Information and Telecommunication Engineering."
   location         : "Somewhere"
   email            :
   links:
